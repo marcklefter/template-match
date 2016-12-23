@@ -4,7 +4,7 @@ This is a sample implementation of template matching in JavaScript using the [su
 
 ## Example
 
-![Original]() ![Template]() ![Result]()
+![Original](https://raw.githubusercontent.com/marcklefter/template-match/master/original.jpg) ![Template](https://raw.githubusercontent.com/marcklefter/template-match/master/template.jpg) ![Result](https://raw.githubusercontent.com/marcklefter/template-match/master/result.png)
 
 ## Usage
 
